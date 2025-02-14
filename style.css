@@ -1,0 +1,17 @@
+.padrao {
+    background-color: #f5f5f5;
+}
+
+.destacado {
+    background-color: #f0cce2;
+}
+
+.padrao, .destacado {
+    margin: 40px;
+    padding: 20px;
+    border: solid black 1px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    box-sizing: border-box;
+}
